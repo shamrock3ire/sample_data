@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3100" } },
+"features": [
+{ "type": "Feature", "properties": { "X": 139.62114, "Y": 35.33939, "HID": "N7001", "Type": "認可保育所", "Name": "01保育所", "Add1": "横浜市金沢区", "Add2": "泥亀一丁目21-1", "point_id": "P01", "pic_before": "\/pic\/B01.jpg", "pic_after": "\/pic\/A01.jpg" }, "geometry": { "type": "Point", "coordinates": [ 374694.43840450473, 3911553.4076406965 ] } },
+{ "type": "Feature", "properties": { "X": 139.606892, "Y": 35.334405, "HID": "G7001", "Type": "認可外", "Name": "02保育園", "Add1": "横浜市金沢区", "Add2": "釜利谷南二丁目23-2", "point_id": "P02", "pic_before": "\/pic\/B02.jpg", "pic_after": "\/pic\/A02.jpg" }, "geometry": { "type": "Point", "coordinates": [ 373391.77252522972, 3911018.6262982148 ] } },
+{ "type": "Feature", "properties": { "X": 139.637589, "Y": 35.375809, "HID": "L7001", "Type": "幼稚園", "Name": "03幼稚園", "Add1": "横浜市金沢区", "Add2": "富岡東2-5-21", "point_id": "P03", "pic_before": "\/pic\/B03.jpg", "pic_after": "\/pic\/A03.jpg" }, "geometry": { "type": "Point", "coordinates": [ 376244.94816288212, 3915572.0665012123 ] } }
+]
+}

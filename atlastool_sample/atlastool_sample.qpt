@@ -1,0 +1,210 @@
+<Composer title="atlastest" visible="1">
+ <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="{ac138445-4654-4460-ad24-4e8227670f57}" alignmentSnap="1" printResolution="300" paperWidth="210" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="297" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
+  <symbol alpha="1" clip_to_extent="1" type="fill" name="">
+   <layer pass="0" class="SimpleFill" locked="0">
+    <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+    <prop k="color" v="255,255,255,255"/>
+    <prop k="joinstyle" v="miter"/>
+    <prop k="offset" v="0,0"/>
+    <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+    <prop k="offset_unit" v="MM"/>
+    <prop k="outline_color" v="0,0,0,255"/>
+    <prop k="outline_style" v="no"/>
+    <prop k="outline_width" v="0.26"/>
+    <prop k="outline_width_unit" v="MM"/>
+    <prop k="style" v="solid"/>
+   </layer>
+  </symbol>
+  <ComposerLabel valign="32" marginX="1" marginY="1" labelText="ポイントデータは横浜市金沢区データポータルの認可保育園/認可外保育園/金沢区内幼稚園のデータを編集して利用&#xa;http://www.city.yokohama.lg.jp/kanazawa/kz-opendata/kz-opendata.html" htmlState="0" halign="1">
+   <LabelFont description="MS UI Gothic,10,-1,5,50,0,0,0,0,0" style=""/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem pagey="285.054" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="11.1355" y="285.054" visibility="1" zValue="13" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="185.122" outlineWidth="0.3" excludeFromExports="0" uuid="{d9e46d72-0402-4063-8b3b-83152099ccfa}" height="11.9457" itemRotation="0" frame="false" pagex="11.1355">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="32" marginX="1" marginY="1" labelText="地理院タイル 電子国土基本図(オルソ画像)" htmlState="0" halign="1">
+   <LabelFont description="MS UI Gothic,10,-1,5,50,0,0,0,0,0" style=""/>
+   <FontColor red="255" blue="255" green="255"/>
+   <ComposerItem pagey="156.668" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="105" y="156.668" visibility="1" zValue="12" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="67.2016" outlineWidth="0.3" excludeFromExports="0" uuid="{6794237a-00cd-4057-94ee-aea77257cb86}" height="5.5" itemRotation="0" frame="false" pagex="105">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="32" marginX="1" marginY="1" labelText="緯度：[% &quot;X&quot; %]　　緯度：[% &quot;Y&quot; %]" htmlState="0" halign="1">
+   <LabelFont description="MS UI Gothic,14,-1,5,50,0,0,0,0,0" style=""/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem pagey="30.2202" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="62.8523" y="30.2202" visibility="1" zValue="11" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="78.2953" outlineWidth="0.3" excludeFromExports="0" uuid="{ac1e009b-5958-4b52-9dec-ee0fa0f572d4}" height="7.16408" itemRotation="0" frame="false" pagex="62.8523">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="32" marginX="1" marginY="1" labelText="環境調査地点位置図" htmlState="0" halign="1">
+   <LabelFont description="MS UI Gothic,20,-1,5,50,0,0,0,0,0" style=""/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem pagey="15.2326" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="10.8165" y="15.2326" visibility="1" zValue="10" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="71.639" outlineWidth="0.3" excludeFromExports="0" uuid="{6ad0dc79-9c8b-4146-b2aa-f112ef1871a7}" height="10.0762" itemRotation="0" frame="false" pagex="10.8165">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerScaleBar lineCapStyle="square" style="Single Box" numMapUnitsPerScaleBarUnit="1" segmentSizeMode="0" alignment="0" numSegments="1" segmentMillimeters="47.9772" lineJoinStyle="miter" minBarWidth="50" numUnitsPerSegment="500" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="0" maxBarWidth="150" height="3" boxContentSpace="1" mapId="0" unitLabel="m">
+   <scaleBarFont description="MS UI Gothic,12,-1,5,50,0,0,0,0,0" style=""/>
+   <fillColor alpha="255" red="0" blue="0" green="0"/>
+   <fillColor2 alpha="255" red="255" blue="255" green="255"/>
+   <strokeColor alpha="255" red="0" blue="0" green="0"/>
+   <textColor alpha="255" red="255" blue="255" green="255"/>
+   <ComposerItem pagey="149.073" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="15.8135" y="149.073" visibility="1" zValue="9" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="59.1772" outlineWidth="0.3" excludeFromExports="0" uuid="{696117b0-b90b-4d55-953f-df81bc2fec33}" height="11.9268" itemRotation="0" frame="false" pagex="15.8135">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerScaleBar>
+  <ComposerLabel valign="128" marginX="1" marginY="1" labelText="調査後" htmlState="0" halign="4">
+   <LabelFont description="MS UI Gothic,18,-1,5,50,0,0,0,0,0" style=""/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem pagey="165.768" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="140.633" y="165.768" visibility="1" zValue="8" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="32.222" outlineWidth="0.3" excludeFromExports="0" uuid="{ce11ea60-088a-49d5-a395-5f6a380bdf97}" height="10.0989" itemRotation="0" frame="false" pagex="140.633">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="128" marginX="1" marginY="1" labelText="地点名称：[% &quot;Name&quot; %]" htmlState="0" halign="2">
+   <LabelFont description="MS UI Gothic,14,-1,5,50,0,0,0,0,0" style=""/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem pagey="28.5762" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="133.633" y="28.5762" visibility="1" zValue="7" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="59.3671" outlineWidth="0.3" excludeFromExports="0" uuid="{3917dea0-8d72-4e03-9d5b-a1bc40c567cb}" height="10.452" itemRotation="0" frame="false" pagex="133.633">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="32" marginX="1" marginY="1" labelText="&lt;style>&#xa;* {margin: 0px; padding: 0px}&#xa;&lt;/style>&#xa;&lt;img src=&quot;[% @project_folder  ||  &quot;pic_after&quot; %]&quot;&#xa;style=&quot;width: auto; height: 100%; display: block; margin: 0px 0px 0px auto;&quot; />" htmlState="2" halign="1">
+   <LabelFont description="MS UI Gothic,10,-1,5,50,0,0,0,0,0" style=""/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem pagey="178.52" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="114.904" y="178.52" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="81.2314" outlineWidth="0.3" excludeFromExports="0" uuid="{d357a89e-c00c-4bac-97dd-2766cfd17c0c}" height="106.342" itemRotation="0" frame="false" pagex="114.904">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="128" marginX="1" marginY="1" labelText="調査前" htmlState="0" halign="4">
+   <LabelFont description="MS UI Gothic,18,-1,5,50,0,0,0,0,0" style=""/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem pagey="164.514" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="31.1355" y="164.514" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="35.1186" outlineWidth="0.3" excludeFromExports="0" uuid="{f780a29c-a52d-499d-a2d6-6326aafa7c57}" height="12.6073" itemRotation="0" frame="false" pagex="31.1355">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="32" marginX="1" marginY="1" labelText="&lt;style>&#xa;* {margin: 0px; padding: 0px}&#xa;&lt;/style>&#xa;&lt;img src=&quot;[% @project_folder  ||  &quot;pic_before&quot; %]&quot;&#xa;style=&quot;width: auto; height: 100%; display: block; margin: 0px 0px 0px auto;&quot; />" htmlState="2" halign="1">
+   <LabelFont description="MS UI Gothic,10,-1,5,50,0,0,0,0,0" style=""/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem pagey="178.519" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="11.4365" y="178.519" visibility="1" zValue="4" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="79.1513" outlineWidth="0.3" excludeFromExports="0" uuid="{85923c72-3994-40a1-b78c-421ddcfd12db}" height="106.342" itemRotation="0" frame="false" pagex="11.4365">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="128" marginX="1" marginY="1" labelText="地点番号：[% &quot;point_id&quot; %]" htmlState="0" halign="1">
+   <LabelFont description="MS UI Gothic,14,-1,5,50,0,0,0,0,0" style=""/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem pagey="28.5762" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="13.452" y="28.5762" visibility="1" zValue="3" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="59.3671" outlineWidth="0.3" excludeFromExports="0" uuid="{9868f3c0-bd46-4187-9018-61d1679ffa2a}" height="10.452" itemRotation="0" frame="false" pagex="13.452">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="false" followPresetName="" id="0" previewMode="Cache" drawCanvasItems="true">
+   <Extent ymin="3911985.328454305883497" xmin="373794.50120033207349479" ymax="3913256.50350265810266137" xmax="375654.50120222929399461"/>
+   <LayerSet/>
+   <Grid/>
+   <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{2114d9d3-c829-4ed1-a133-20e395c11c96}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="グリッド 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
+    <lineStyle>
+     <symbol alpha="1" clip_to_extent="1" type="line" name="">
+      <layer pass="0" class="SimpleLine" locked="0">
+       <prop k="capstyle" v="square"/>
+       <prop k="customdash" v="5;2"/>
+       <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+       <prop k="customdash_unit" v="MM"/>
+       <prop k="draw_inside_polygon" v="0"/>
+       <prop k="joinstyle" v="bevel"/>
+       <prop k="line_color" v="0,0,0,255"/>
+       <prop k="line_style" v="solid"/>
+       <prop k="line_width" v="0"/>
+       <prop k="line_width_unit" v="MM"/>
+       <prop k="offset" v="0"/>
+       <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+       <prop k="offset_unit" v="MM"/>
+       <prop k="use_custom_dash" v="0"/>
+       <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+      </layer>
+     </symbol>
+    </lineStyle>
+    <markerStyle>
+     <symbol alpha="1" clip_to_extent="1" type="marker" name="">
+      <layer pass="0" class="SimpleMarker" locked="0">
+       <prop k="angle" v="0"/>
+       <prop k="color" v="0,0,0,255"/>
+       <prop k="horizontal_anchor_point" v="1"/>
+       <prop k="joinstyle" v="bevel"/>
+       <prop k="name" v="circle"/>
+       <prop k="offset" v="0,0"/>
+       <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+       <prop k="offset_unit" v="MM"/>
+       <prop k="outline_color" v="0,0,0,255"/>
+       <prop k="outline_style" v="solid"/>
+       <prop k="outline_width" v="0"/>
+       <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+       <prop k="outline_width_unit" v="MM"/>
+       <prop k="scale_method" v="diameter"/>
+       <prop k="size" v="2"/>
+       <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+       <prop k="size_unit" v="MM"/>
+       <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+     </symbol>
+    </markerStyle>
+    <annotationFontProperties description="MS UI Gothic,9,-1,5,50,0,0,0,0,0" style=""/>
+   </ComposerMapGrid>
+   <AtlasMap scalingMode="0" atlasDriven="1" margin="0.10000000000000001"/>
+   <ComposerItem pagey="41" page="1" id="" lastValidViewScaleFactor="2.40373" positionMode="0" positionLock="false" x="13.9121" y="41" visibility="1" zValue="2" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="178.512" outlineWidth="0.3" excludeFromExports="0" uuid="{ac138445-4654-4460-ad24-4e8227670f57}" height="122" itemRotation="0" frame="false" pagex="13.9121">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerMap>
+  <ComposerShape shapeType="1" cornerRadius="0">
+   <symbol alpha="1" clip_to_extent="1" type="fill" name="">
+    <layer pass="0" class="SimpleFill" locked="0">
+     <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+     <prop k="color" v="255,255,255,255"/>
+     <prop k="joinstyle" v="miter"/>
+     <prop k="offset" v="0,0"/>
+     <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+     <prop k="offset_unit" v="MM"/>
+     <prop k="outline_color" v="0,0,0,255"/>
+     <prop k="outline_style" v="solid"/>
+     <prop k="outline_width" v="0.3"/>
+     <prop k="outline_width_unit" v="MM"/>
+     <prop k="style" v="solid"/>
+    </layer>
+   </symbol>
+   <ComposerItem pagey="26.6253" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="11.15" y="26.6253" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="185.7" outlineWidth="0.3" excludeFromExports="0" uuid="{f2ec6f6c-5f12-452b-bcce-fbfc69948085}" height="258.086" itemRotation="0" frame="false" pagex="11.15">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerShape>
+  <customproperties>
+   <property key="imageCropMarginBottom" value="0"/>
+   <property key="imageCropMarginLeft" value="0"/>
+   <property key="imageCropMarginRight" value="0"/>
+   <property key="imageCropMarginTop" value="0"/>
+   <property key="imageCropToContents" value="false"/>
+  </customproperties>
+ </Composition>
+ <Atlas hideCoverage="false" coverageLayer="point_u54_shp20170301184917458" singleFile="false" filenamePattern="'output_'||@atlas_featurenumber" enabled="true" filterFeatures="false" sortFeatures="false" pageNameExpression=""/>
+</Composer>

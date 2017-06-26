@@ -1,0 +1,5 @@
+#title	credit	serviceUrl	yOriginTop	zmin	zmax	xmin	ymin	xmax	ymax
+1/2万　迅速測図原図	（独）農業環境技術研究所	http://habs.dc.affrc.go.jp/rapid16/{z}/{x}/{y}.png	0	8	16	138.9	34.9	141.0	36.5
+1/5千　東京測量図原図	（独）農業環境技術研究所	http://habs.dc.affrc.go.jp/tokyo5k/{z}/{x}/{y}.png	0	12	18	139.70	35.65	139.8	35.71
+第五回植生図	（株）エコリス	http://map.ecoris.info/tiles/vege/{z}/{x}/[y].png	1	5	15	122.78	20.4	154.78	45.58
+Sentinel2サンプル画像(北海道南部 撮影日:2016/04/06)	Contains modified Copernicus Sentinel data 2016/Y.Mishima	http://www.giscience.sakura.ne.jp/maptile/donan/{z}/{x}/{y}.png	0	5	16	139.70	41.40	140.90	42.50

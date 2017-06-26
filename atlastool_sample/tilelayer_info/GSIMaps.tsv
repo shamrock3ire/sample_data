@@ -1,0 +1,19 @@
+#title	credit	serviceUrl	yOriginTop	zmin	zmax	xmin	ymin	xmax	ymax
+標準地図	国土地理院	http://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png	1	2	17	122.78	20.4	154.78	45.58
+淡色地図	国土地理院	http://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png	1	12	17	122.78	20.4	154.78	45.58
+白地図	国土地理院	http://cyberjapandata.gsi.go.jp/xyz/blank/{z}/{x}/{y}.png	1	5	14	122.78	20.4	154.78	45.58
+English Version	国土地理院	http://cyberjapandata.gsi.go.jp/xyz/english/{z}/{x}/{y}.png	1	5	8	122.78	20.4	154.78	45.58
+色別標高図	国土地理院	http://cyberjapandata.gsi.go.jp/xyz/relief/{z}/{x}/{y}.png	1	5	15	122.78	20.4	154.78	45.58
+電子国土基本図（オルソ画像）	国土地理院	http://cyberjapandata.gsi.go.jp/xyz/ort/{z}/{x}/{y}.jpg	1	5	17	122.78	20.4	154.78	45.58
+空中写真（1945～1950年）	国土地理院	http://cyberjapandata.gsi.go.jp/xyz/ort_USA10/{z}/{x}/{y}.png	1	15	17	122.78	20.4	154.78	45.58
+空中写真（1961～1964年）	国土地理院	http://cyberjapandata.gsi.go.jp/xyz/ort_old10/{z}/{x}/{y}.png	1	15	17	122.78	20.4	154.78	45.58
+国土画像情報（第一期：1974～1978年撮影）	国土地理院	http://cyberjapandata.gsi.go.jp/xyz/gazo1/{z}/{x}/{y}.jpg	1	15	17	122.78	20.4	154.78	45.58
+国土画像情報（第二期：1979～1983年撮影）	国土地理院	http://cyberjapandata.gsi.go.jp/xyz/gazo2/{z}/{x}/{y}.jpg	1	15	17	122.78	20.4	154.78	45.58
+国土画像情報（第三期：1984～1986年撮影）	国土地理院	http://cyberjapandata.gsi.go.jp/xyz/gazo3/{z}/{x}/{y}.jpg	1	15	17	122.78	20.4	154.78	45.58
+国土画像情報（第四期：1988～1990年撮影）	国土地理院	http://cyberjapandata.gsi.go.jp/xyz/gazo4/{z}/{x}/{y}.jpg	1	15	17	122.78	20.4	154.78	45.58
+簡易空中写真（2004年～）	国土地理院	http://cyberjapandata.gsi.go.jp/xyz/airphoto/{z}/{x}/{y}.png	1	5	18	122.78	20.4	154.78	45.58
+災害復興計画基図	国土地理院	http://cyberjapandata.gsi.go.jp/xyz/fukkokizu/{z}/{x}/{y}.png	1	18	18	122.78	20.4	154.78	45.58
+東日本大震災被災地震災直後オルソ画像1（2011年3月～2011年4月撮影）	国土地理院	http://cyberjapandata.gsi.go.jp/xyz/toho1/{z}/{x}/{y}.jpg	1	15	17	122.78	20.4	154.78	45.58
+東日本大震災被災地震災後オルソ画像2（2011年5月～2012年4月撮影）	国土地理院	http://cyberjapandata.gsi.go.jp/xyz/toho2/{z}/{x}/{y}.jpg	1	15	18	122.78	20.4	154.78	45.58
+東日本大震災被災地震災後オルソ画像3（2012年10月～2013年5月撮影）	国土地理院	http://cyberjapandata.gsi.go.jp/xyz/toho3/{z}/{x}/{y}.jpg	1	15	18	122.78	20.4	154.78	45.58
+東日本大震災被災地震災後オルソ画像4（2013年9月～2013年12月撮影）	国土地理院	http://cyberjapandata.gsi.go.jp/xyz/toho4/{z}/{x}/{y}.jpg	1	15	18	122.78	20.4	154.78	45.58
